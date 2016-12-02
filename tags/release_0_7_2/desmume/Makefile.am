@@ -1,2 +1,0 @@
-EXTRA_DIST = README.LIN README.WIN autogen.sh
-SUBDIRS = src
